@@ -1,4 +1,4 @@
-kaggle 上基本的放假预测分析，第一次完完整整的将代码实现了一边，
+kaggle 上基本的房价预测分析，第一次完完整整的将代码实现了一遍，
 纪念一下2018.12.16，come on,just do it! The step as follows:
 1.建立工程，导入sklearn、pandas等所需要的库
 2.读取train.csv,设置目标函数为y=home_data.SalePrice,选取特征变量features给X
